@@ -1,0 +1,1 @@
+# Itana Edge Email Template
